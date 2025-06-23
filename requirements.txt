@@ -5,3 +5,5 @@ pdf2image
 dotenv
 pdfminer.high_level
 spacy
+pillow
+PyPDF2
