@@ -2,8 +2,7 @@ streamlit
 google-generativeai
 python-dotenv
 pdf2image
-dotenv
-pdfminer.high_level
+pdfminer.six
 spacy
 pillow
 PyPDF2
