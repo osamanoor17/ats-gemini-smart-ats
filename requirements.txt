@@ -1,8 +1,13 @@
+# streamlit
+# google-generativeai
+# python-dotenv
+# pdf2image
+# pdfminer.six
+# spacy
+# pillow
+# PyPDF2
+# platform
 streamlit
+pdfminer.six
 google-generativeai
 python-dotenv
-pdf2image
-pdfminer.six
-spacy
-pillow
-PyPDF2
