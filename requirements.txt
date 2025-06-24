@@ -2,3 +2,4 @@ streamlit
 pdfminer.six
 google-generativeai
 python-dotenv
+python-docx
